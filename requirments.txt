@@ -1,0 +1,3 @@
+Python 3.6+
+Redis
+django-channels 2.0
